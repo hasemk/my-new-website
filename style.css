@@ -22,3 +22,10 @@ button{
   color: white;
   padding: 100px;
 }
+.donate{
+    text-align: center;
+    padding: 20px 0px 0px 0px;
+}
+.donate h2{
+    font-size: 40px;
+}
