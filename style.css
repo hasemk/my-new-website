@@ -4,58 +4,78 @@ body {
     font-family: 'Poppins', sans-serif;
     font-family: 'Roboto', sans-serif;
 }
-h1{
+
+h1 {
     font-size: 50px;
-   
+
 }
-button{
+
+button {
     padding: 8px 15px;
     background-color: rgb(250, 72, 1);
     border-radius: 10px;
     border: none;
     color: white;
 }
-.help-poor{
-  text-align: center;
-  background-image: url(../my-new-website/sy.jpg);
-  background-size: cover;
-  color: white;
-  padding: 100px;
+
+.help-poor {
+    text-align: center;
+    background-image: url(../my-new-website/sy.jpg);
+    background-size: cover;
+    color: white;
+    padding: 100px;
 }
-.donate{
+
+.donate {
     text-align: center;
     padding: 20px 0px 0px 0px;
 }
-.donate h2{
+
+.donate h2 {
     font-size: 40px;
 }
-.donate-ammount{
+
+.donate-ammount {
     text-align: center;
     display: flex;
     justify-content: center;
     gap: 50px;
-    
-    
+
+
 }
-.ammount{
+
+.ammount {
     background-color: rgb(244, 235, 235);
-    padding: 30px 20px 30px 20px ;
+    padding: 30px 20px 30px 20px;
     border-radius: 5px;
 }
-.ammount:hover{
+
+.ammount:hover {
     color: red;
     background-color: rgb(244, 202, 209);
     border: 2px solid red;
 }
-.donate-today{
-    text-align: center;
+
+.donate-today {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     padding-top: 10px;
 }
 
-.donate_plan{
+.donate-today p {
+    border-bottom: 1px solid rgb(169, 166, 166);
+    padding: 5px;
+    width: 500px;
+    text-align: center;
+}
+
+.donate_plan {
     text-align: center;
     padding-top: 60px;
 }
-h2{
+
+h2 {
     font-size: 35px;
 }
