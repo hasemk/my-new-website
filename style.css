@@ -1,0 +1,24 @@
+body {
+    font-family: 'Anton', sans-serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 50px;
+   
+}
+button{
+    padding: 8px 15px;
+    background-color: rgb(250, 72, 1);
+    border-radius: 10px;
+    border: none;
+    color: white;
+}
+.help-poor{
+  text-align: center;
+  background-image: url(../my-new-website/sy.jpg);
+  background-size: cover;
+  color: white;
+  padding: 100px;
+}
