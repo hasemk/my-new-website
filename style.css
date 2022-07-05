@@ -29,3 +29,21 @@ button{
 .donate h2{
     font-size: 40px;
 }
+.donate-ammount{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    
+    
+}
+.ammount{
+    background-color: rgb(244, 235, 235);
+    padding: 30px 20px 30px 20px ;
+    border-radius: 5px;
+}
+.ammount:hover{
+    color: red;
+    background-color: rgb(244, 202, 209);
+    border: 2px solid red;
+}
