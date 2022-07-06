@@ -79,3 +79,23 @@ button {
 h2 {
     font-size: 35px;
 }
+
+.shelter-poor{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    padding-top: 50px;
+}
+.food{
+    background-color: rgb(204, 219, 232) ;
+    padding: 20px;
+    
+}
+.shelter{
+    background-color: rgb(225, 209, 188);
+    padding: 20px;
+}
+.education{
+    background-color: rgb(222, 200, 173);
+    padding: 20px;
+}
