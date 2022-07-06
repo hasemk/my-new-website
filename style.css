@@ -15,16 +15,17 @@ button {
     background-color: rgb(249, 128, 128);
     border-radius: 10px;
     border: none;
-    color: white;
+    color: rgb(249, 243, 243);
 
 }
 
 .help-poor {
     text-align: center;
-    background-image: url(../my-new-website/sy.jpg);
+    background-image: url(./donate.jpg);
     background-size: cover;
-    color: white;
+    color: rgb(255, 255, 255);
     padding: 100px;
+    
 }
 
 .donate {
@@ -202,9 +203,18 @@ h2 {
     width: 100%;
     height: 100%;
 }
-.finised-work {
-    background-color: rgb(62, 55, 55);
-    color: chocolate;
+
+.last{
     text-align: center;
-    gap: 2px;
+    background-color: darkslategrey;
+    margin-top: 30px;
+}
+.last p{
+    padding-bottom: 80px;
+    color: rgb(215, 211, 211);
+}
+.last h3{
+    padding-top: 80px;
+    font-size: 40px;
+    color: darksalmon;
 }
