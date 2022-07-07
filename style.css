@@ -170,7 +170,7 @@ h2 {
 
 .address input {
     color: white;
-    height: 25px;
+    height: 26px;
     border: none;
     background-color: #9e9d9d;
 }
@@ -178,11 +178,12 @@ h2 {
 .address a {
     text-decoration: none;
     background-color: rgb(249, 128, 128);
-    padding-top: 2px;
-    padding-bottom: 5px;
+    padding-top: 3px;
+    padding-bottom: 6px;
     padding-left: 10px;
     padding-right: 15px;
     display: inline block;
+    margin-left:-10px;
 
 }
 
