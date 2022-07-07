@@ -182,6 +182,8 @@ h2 {
     padding-bottom: 5px;
     padding-left: 10px;
     padding-right: 15px;
+    display: inline block;
+
 }
 
 .new-add {
@@ -194,6 +196,7 @@ h2 {
 .new-div-one{
     width: 400px;
     height: 300px;
+    
 }
 .new-add-two{
     width: 500px;
